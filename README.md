@@ -1,5 +1,8 @@
 # KMP_and_Dictionary
-A basic dictionary generator and KMP searching algorithm based on Java.
+A basic dictionary generator and KMP algorithm searching algorithm based on Java.
+
+
+You can learn the KMP algorithm through my code here or improve it.
 
 
 DictionaryGenerator will take several characters, they can be your target's BOD, Name, E-mail address, and so on.
